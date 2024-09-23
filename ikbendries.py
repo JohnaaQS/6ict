@@ -1,0 +1,1 @@
+print("ik ben dries, ik ben 16 jaar en ik ben dries " * 1000)
